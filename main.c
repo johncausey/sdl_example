@@ -63,7 +63,7 @@ static void repaint() {
 
 	glTranslatef(0.0f, 0.0f, -2.0f);
 
-     // Rotate the object
+	// Rotate the object
 	glRotatef(pitch, 1.0f, 0.0f, 0.0f);
 	glRotatef(yaw, 0.0f, 1.0f, 0.0f);
 
